@@ -1,2 +1,2 @@
-# Fajny-import-do-javy
-ei ei ei
+# Hej polacy!
+oto taki import do javy :)
